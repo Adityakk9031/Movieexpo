@@ -84,9 +84,9 @@ Make sure you have the following installed on your machine:
 
 ```bash
 
-git clone https://github.com/adrianhajdin/rn-movie-app.git
+git clone https://github.com/Adityakk9031/Movieexpo.git
 
-cd rn-movie-app
+cd Movieexpo
 
 ```
 
